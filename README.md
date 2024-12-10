@@ -6,7 +6,7 @@
 <h2>Education</h2>
 BSIT 
 <br>
-New Era Univeristy 
+New Era University 
 <br> 
 2022-Present
 <h2>Certifications</h2>

@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Dwight Lance Pascua</h1>
 <h3 align="center">I want to learn more about databases to improve my knowledge and skills. This will help me gain valuable experience in the IT industry</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwightpascua&label=Profile%20views&color=0e75b6&style=flat" alt="dwightpascua" /> </p>
-
 <h2>Education</h2>
 BSIT 
 <br>
@@ -16,3 +14,5 @@ New Era University
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwightpascua&label=Profile%20views&color=0e75b6&style=flat" alt="dwightpascua" /> </p>

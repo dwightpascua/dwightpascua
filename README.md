@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwightpascua&label=Profile%20views&color=0e75b6&style=flat" alt="dwightpascua" /> </p>
 
+<h2>Education</h2>
 BSIT 
 <br>
 New Era Univeristy 

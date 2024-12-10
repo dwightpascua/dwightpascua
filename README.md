@@ -9,6 +9,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
-![Laravel logotype min](https://github.com/dwightpascua/Oracle-Certificates/blob/main/OCI%20AI%20Certfied%20Foundations%20.jpg)
-![Laravel logotype min](https://github.com/dwightpascua/Oracle-Certificates/blob/main/OCI%20Data%20Certified%20Foundations%20Associate.jpg)
 

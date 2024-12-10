@@ -13,7 +13,7 @@ New Era University
     <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024DCFA.png" alt="Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate" style="width:300px; height:auto;">
 </a>
 
- <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=92BBE7F684787C714A051019928255D1F33205D37CF9CDB1F70FB4948373D60">
+ <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=92BBE7F684787C714A051019928255D1F33205D37CF9CDB1F70FB4948373D603">
     <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI24AICFA.png" alt="Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate" style="width:300px; height:auto;">
  </a>
 
